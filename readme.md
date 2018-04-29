@@ -3,7 +3,11 @@ This web page I did for SDU language survey
 <h2>
 <h2>Survey Page</h2>
 <p align="center">
-<img src="" width=600/>
+<img src="11.png" width=600/>
+</p>
+<h2>
+<p align="center">
+<img src="22.png" width=600/>
 </p>
 <h2>
 
