@@ -1,3 +1,12 @@
+# Survey web page example
+This web page I did for SDU language survey
+<h2>
+<h2>Survey Page</h2>
+<p align="center">
+<img src="" width=600/>
+</p>
+<h2>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
